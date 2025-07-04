@@ -104,12 +104,12 @@ This audit reviewed the Eggstravaganza NFT Hunt core contracts. A total of 4 iss
 
 | Severity | Number of issues found |
 | -------- | ---------------------- |
-| High     | 1                      |
-| Medium   | 3                      |
-| Low      | 1                      |
-| Info     | 7                      |
-| Gas      | 2                      |
-| Total    | 16                     |
+| High     | 2                      |
+| Medium   | 1                      |
+| Low      | 0                      |
+| Info     | 0                      |
+| Gas      | 0                      |
+| Total    | 3                     |
 
 # Findings
 

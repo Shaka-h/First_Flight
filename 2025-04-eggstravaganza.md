@@ -27,8 +27,7 @@ header-includes:
 
 <!-- Your report starts here! -->
 
-Prepared by: [Cyfrin](https://cyfrin.io)
-Lead Auditors: 
+Prepared by:
 - Miriam Shaka
 
 # Table of Contents
